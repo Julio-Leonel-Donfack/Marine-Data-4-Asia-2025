@@ -7,4 +7,5 @@
 📚 **Access all recordings and presentations:**  
 [Marine Data 4 Asia – Official event resources](https://events.marine.copernicus.eu/marine-data-4-asia/content/replays-presentations?iw_mailid=6b9d64bf-8c52-f011-8f7c-6045bd96bdd0&iw_scope=Event)
 
+📄 **My CV:**  
 [View CV (local file link)](file:///C:/Users/roseh/Desktop/Jose/Donfack_Leonel_Julio_CV.pdf)
